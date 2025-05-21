@@ -79,7 +79,7 @@ def SOC_ToolBox():
 
 
 
-    elif selected_website == "Voice and CCS":
+    elif selected_website == "VOICE and CCS":
         # Set of URLs for Voice and CCS, all open in the same window (in tabs)
         urls = [
             "https://stathub.csgedirect.com/StatHubUI_prod/#/activity/throughput?product=VoiceSDS&productFamily=Provisioning&hostGroup=%5BAll%20Host%20Groups%5D&client=chrtrvp%7Ctwcvp&timeBucket=00:05:00",
