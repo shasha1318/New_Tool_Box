@@ -170,7 +170,7 @@ def SOC_ToolBox():
 
 # Options for website selection
 options = [
-    "Please select from the drop down",
+    "Please select from the dropdown",
     "SLBOS Others",
     "SLBOS Cycle J and Cycle A",
     "ACSR and ACPx",
